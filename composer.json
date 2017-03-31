@@ -10,7 +10,9 @@
       "email": "guillaume.stein@gmail.com"
     }
   ],
-  "require": {},
+  "require": {
+    "symfony/framework-bundle": "~2.8|~3.2"
+  },
   "autoload": {
     "psr-4": { "InTimesIT\\CalendarBundle\\": "" }
   }
