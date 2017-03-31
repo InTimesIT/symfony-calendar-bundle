@@ -1,0 +1,17 @@
+{
+  "name": "intimesit/symfony-calendar-bundle",
+  "type": "symfony-bundle",
+  "keywords": ["calendar", "agenda"],
+  "homepage": "https://github.com/InTimesIT/symfony-calendar-bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "STEIN Guillaume",
+      "email": "guillaume.stein@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": { "InTimesIT\\CalendarBundle\\": "" }
+  }
+}
