@@ -1,0 +1,19 @@
+InTimesIT\CalendarBundle\Model\Event:
+  type: mappedSuperclass
+  fields:
+    title:
+      type: string
+    start:
+      type: datetime
+    end:
+      type: datetime
+    allDay:
+      type: boolean
+    description:
+      type: text
+    location:
+      type: string
+    status:
+      type: string
+    participants:
+      type: array
