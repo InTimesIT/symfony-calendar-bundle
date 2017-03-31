@@ -6,7 +6,7 @@ use Doctrine\Bundle\DoctrineBundle\DependencyInjection\Compiler\DoctrineOrmMappi
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class CalendarBundle extends Bundle
+class InTimesITCalendarBundle extends Bundle
 {
     public function build(ContainerBuilder $container)
     {
