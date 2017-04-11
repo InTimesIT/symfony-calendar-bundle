@@ -1,6 +1,7 @@
 {
   "name": "intimesit/symfony-calendar-bundle",
   "type": "symfony-bundle",
+  "description": "Calendar bundle for you to manage your events, save them with doctrine and display them with twig template",
   "keywords": ["calendar", "agenda"],
   "homepage": "https://github.com/InTimesIT/symfony-calendar-bundle",
   "license": "MIT",
