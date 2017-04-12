@@ -1,0 +1,11 @@
+intimesit:
+  calendar:
+    event:
+      title: "Title"
+      start: "Start"
+      end: "End"
+      allDay: "All day"
+      description: "Description"
+      location: "Location"
+      status: "Status"
+      participants: "Participants"
